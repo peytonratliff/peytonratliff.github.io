@@ -1,0 +1,10 @@
+Everything to store for individual talents:
+
+<active>, true/false
+<talentName>, txt
+<maxPoints>, int (1 through 5)
+<iconUrl>, url to icon in data (could be based on talenName?)
+
+
+youtube video for loading xml in JS with fetch: https://www.youtube.com/watch?v=0gON4MUdJE8
+youtube video for working with xml in JS: https://www.youtube.com/watch?v=Fkw_OlcLcwE&t=0s
