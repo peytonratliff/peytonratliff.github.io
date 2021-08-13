@@ -2,127 +2,211 @@
     <balance>
         <row1>
             <col1>
-
+                <active>true</active>
+                <talentName>Clarity</talentName>
+                <maxPoints>5</maxPoints>
+                <iconurl>.../.../...</iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>true</active>
+                <talentName>Hurricane</talentName>
+                <maxPoints>1</maxPoints>
+                <iconurl>.../.../...</iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row1>
 
         <row2>
             <col1>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row2>
 
         <row3>
             <col1>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row3>
                 
         <row4>
             <col1>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row4>
                 
         <row5>
             <col1>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row5>
                 
         <row6>
             <col1>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row6>
                 
         <row7>
             <col1>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col1>
 
             <col2>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col2>
 
             <col3>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col3>
 
             <col4>
-
+                <active>false</active>
+                <talentName></talentName>
+                <maxPoints></maxPoints>
+                <iconurl></iconurl>
             </col4>
         </row7>
     </balance>

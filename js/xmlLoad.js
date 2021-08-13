@@ -31,5 +31,5 @@ fetch('https://peytonratliff.github.io/classicWoWxml/druid.xml')
     .then(function(data){
         let parser = new DOMParser(),
             xmlDoc = parser.parseFromString(data, 'text/xml');
-        console.log(xmlDoc.getElementsByTagName('Employee'));
+        console.log(xmlDoc.getElementsByTagName('talentName'));
     });
