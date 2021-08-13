@@ -29,5 +29,7 @@ fetch('Employees.xml')
         return resp.text();
     })
     .then(function(data){
-        console.log(data);
+        let parser = new DOMParser(),
+            xmlDoc = parser.parseFromString(data, 'text/xml');
+        console.log(xmlDoc);
     });
