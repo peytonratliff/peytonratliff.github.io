@@ -6,6 +6,11 @@ function xmlLoad(classID){
     .then(function(data){
         let parser = new DOMParser(),
             xmlDoc = parser.parseFromString(data, 'text/xml');
-        console.log(xmlDoc.getElementsByTagName(classID));
+        build(xmlDoc, classID);
     });
+}
+
+
+function build(xmlDoc, classID){
+    console.log(xmlDoc.getElementsByTagName(classID));
 }
