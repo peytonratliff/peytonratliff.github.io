@@ -1,5 +1,5 @@
 <druid>
-    <balance>
+    <spec1 id="balance">
         <row1>
             <col1>
                 <active>true</active>
@@ -209,9 +209,9 @@
                 <iconurl></iconurl>
             </col4>
         </row7>
-    </balance>
+    </spec1>
 
-    <feralcombat>
+    <spec2 id="feral.combat">
         <row1>
             <col1>
 
@@ -337,9 +337,9 @@
 
             </col4>
         </row7>
-    </feralcombat>
+    </spec2>
 
-    <restoration>
+    <spec3 id="restoration">
         <row1>
             <col1>
 
@@ -465,5 +465,5 @@
 
             </col4>
         </row7>
-    </restoration>
+    </spec3>
 </druid>
