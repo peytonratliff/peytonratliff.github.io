@@ -1,6 +1,6 @@
 <druid>
 
-	<spec1 id=balance>
+	<spec1 id="balance">
 	
 		<!-- Begin row 1 -->
 		<row1col1>
@@ -214,7 +214,7 @@
 	</spec1>
 	
 	
-	<spec2 id=feral.combat>
+	<spec2 id="feral.combat">
 	
 		<!-- Begin row 1 -->
 		<row1col1>
@@ -344,7 +344,7 @@
 	</spec2>
 	
 	
-	<spec3 id=restoration>
+	<spec3 id="restoration">
 	
 		<!-- Begin row 1 -->
 		<row1col1>
