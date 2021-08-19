@@ -1,5 +1,5 @@
 <druid>
-    <spec1 id="balance">
+    <balance id="balance">
         <row1>
             <col1>
                 <active>true</active>
@@ -209,7 +209,7 @@
                 <iconurl></iconurl>
             </col4>
         </row7>
-    </spec1>
+    </balance>
 
     <spec2 id="feral.combat">
         <row1>
